@@ -62,8 +62,8 @@ try:
 except ImportError:
 	pass  # This is OK, we'll try to bitbang it!
 
-__version__ = "0.1.2"
-__repo__ = ""
+__version__ = "1.0.0"
+__repo__ = "https://github.com/derhexenmeister/GroveUltrasonicRanger.git"
 
 
 class GroveUltrasonicRanger:
